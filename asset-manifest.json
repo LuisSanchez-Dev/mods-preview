@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mods-preview/static/css/main.df0a7f88.css",
+    "main.js": "/mods-preview/static/js/main.f3d29e07.js",
+    "index.html": "/mods-preview/index.html",
+    "main.df0a7f88.css.map": "/mods-preview/static/css/main.df0a7f88.css.map",
+    "main.f3d29e07.js.map": "/mods-preview/static/js/main.f3d29e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0a7f88.css",
+    "static/js/main.f3d29e07.js"
+  ]
+}
