@@ -1,6 +1,6 @@
 {
   "name": "mods-preview",
-  "homepage": "https://luissanchez-dev.github.io/mods-preview/", <----
+  "homepage": "https://luissanchez-dev.github.io/mods-preview/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
